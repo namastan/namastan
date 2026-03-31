@@ -33,13 +33,13 @@ documented with the tradeoffs and the failures alongside the parts that worked.
  
 ## Pinned Repos
  
-**[resume-tailoring-agents](https://github.com/yourusername/resume-tailoring-agents)**
+**[resume-tailoring-agents](https://github.com/namastan/resume-tailoring-agents)**
 A Python framework for tailoring resumes using a persistent career data structure
 and an interactive coaching agent. The design prioritizes factual accuracy over
 impressive-sounding output — the coach surfaces evidence you already have rather
 than inventing better claims.
  
-**[ai-adoption-field-notes](https://github.com/yourusername/ai-adoption-field-notes)**
+**[ai-adoption-field-notes(Coming Soon)](https://github.com/namastan/ai-adoption-field-notes)**
 Documented frameworks from real AI adoption engagements with small businesses.
 Includes a conversion audit methodology, an agent adoption readiness assessment,
 and anonymized case studies showing where deployments succeed and where they stall.
